@@ -1,0 +1,18 @@
+*               text=auto eol=lf
+
+*.gitattributes text
+.gitignore      text
+
+*.md            text diff=markdown
+*.swift         text diff=swift
+
+*.pbxproj         text
+*.xcworkspacedata text
+
+
+*.png           binary
+*.jpg           binary
+*.ico           binary
+*.jpeg          binary
+*.gif           binary
+*.svg           binary
