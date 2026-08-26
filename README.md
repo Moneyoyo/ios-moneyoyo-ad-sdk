@@ -9,7 +9,6 @@ Installation using [Swift Package Manager](https://www.swift.org/documentation/p
 ## Requirements
 
 - Xcode 16+
-- Swift 6+
 - iOS 15+
 
 ### Supported Ad Formats
